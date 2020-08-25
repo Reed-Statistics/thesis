@@ -41,15 +41,15 @@ The components of individual theses and the order in which they are put together
 
 ### Due Dates
 
-* XXX: Project topic finalized
-* XXX: Data sources identified
-* XXX: Three related texts identified and summarized
-* XXX: Data chapter draft complete
-* XXX: Introduction chapter draft complete
+* Sept 11th: Project topic finalized
+* Sept 25th: Data sources identified
+* Oct 2nd: Three texts related to the project topic identified and summarized
+* Oct 23rd: Data chapter draft complete
+* Nov 20th: Introduction chapter draft complete
 * Week of Dec 7th: Present in the "Math-Stats Thesis Updates"
-* XXX: Methods chapter draft complete
-* XXX: Results chapter draft complete
-* XXX: Discussion chapter and Abstract draft complete
+* Feb 19th: Methods chapter draft complete
+* March 26th: Results chapter draft complete
+* April 2nd: Discussion chapter and Abstract draft complete
 * April 9th: Full rough to theis advisor for review and feedback
 * April 16th: Code Appendix complete 
 * April 30th, 3pm: 4 copies of thesis due at Registrar's Office
