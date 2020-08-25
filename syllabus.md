@@ -13,12 +13,44 @@ Senior thesis is a year long research project where you will collaborate with a 
 
 ### Expectations
 
-* You will meet weekly with your advisor.  Prior to those meetings you will complete a research log of your activities for the week and your plans for the upcoming week.  A template log can be found [here]().  
-* You will 
+* You will meet weekly with your advisor.  Prior to those meetings you will complete a research log of your activities for the week and your plans for the upcoming week.  A template log can be found [here](https://github.com/Reed-Statistics/thesis/blob/master/template_log.md).  
+* You will write every week.  
+* You will meet project deadlines.
+
+### General Structure 
+
+The components of individual theses and the order in which they are put together can vary somewhat, but here are some general guidelines on a common structure:
+
+* Abstract
+    + Includes the main objective and rationale for the project, outlines the methods used, presents the key results and conclusions
+* Introduction
+    + Addresses what the research problem is, motivates why it is important, provides background material on the topic and other approaches, and identifies what is added by this thesis
+    + Briefly introduces the data sources, methods used, and a couple of key findings
+* Data
+    + Describes the data sources (For each source, should answer: Where did it come from? Who collected it? How was it collected? Why was it originally collected?)
+    + Defends choices of which data are utilized and addresses as issues with the data
+* Methods 
+    + Gives an overview of the current main approaches to the problem.
+    + Points out flaws in existing approaches and addresses how the current work mitigates these problems
+* Results
+    + Includes both descriptive and analytical results
+* Discussion (and possibly a Conclusion)
+    + Summarizes the findings
+    + Discusses aspects of the analysis that could be expanded on, along with limitations
+    + Provides key takeaways and recommendations from the domain audience
 
 ### Due Dates
 
-
-
+* XXX: Project topic finalized
+* XXX: Data sources identified
+* XXX: Three related texts identified and summarized
+* XXX: Data chapter draft complete
+* XXX: Introduction chapter draft complete
+* Week of Dec 7th: Present in the "Math-Stats Thesis Updates"
+* XXX: Methods chapter draft complete
+* XXX: Results chapter draft complete
+* XXX: Discussion chapter and Abstract draft complete
+* April 9th: Full rough to theis advisor for review and feedback
+* April 16th: Code Appendix complete 
 * April 30th, 3pm: 4 copies of thesis due at Registrar's Office
 * May 14, noon: Thesis due in library
