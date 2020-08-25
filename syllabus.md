@@ -54,3 +54,15 @@ The components of individual theses and the order in which they are put together
 * April 16th: Code Appendix complete 
 * April 30th, 3pm: 4 copies of thesis due at Registrar's Office
 * May 14, noon: Thesis due in library
+
+### Assessment
+
+* Project engagement
+    + Meeting weekly goals
+    + Writing reqularly
+    + Come prepared for weekly meetings
+    + Maintaining the GitHub Project and pushing work to GitHub repo
+    + Communicating problems
+* Thesis drafts
+* Final thesis document
+* Oral exam
