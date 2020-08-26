@@ -19,7 +19,7 @@ Senior thesis is a year long research project where you will collaborate with a 
 
 ### General Structure 
 
-The components of individual theses and the order in which they are put together can vary somewhat, but here are some general guidelines on a common structure:
+You should write your thesis using the `thesisdown` r package. (More info [here](https://github.com/ismayc/thesisdown).) The components of individual theses and the order in which they are put together can vary somewhat, but here are some general guidelines on a common structure:
 
 * Abstract
     + Includes the main objective and rationale for the project, outlines the methods used, presents the key results and conclusions
