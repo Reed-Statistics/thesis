@@ -23,8 +23,9 @@ You should write your thesis using the `thesisdown` r package. (More info [here]
 
 * Abstract
     + Includes the main objective and rationale for the project, outlines the methods used, presents the key results and conclusions
-* Introduction
-    + Addresses what the research problem is, motivates why it is important, provides background material on the topic and other approaches, and identifies what is added by this thesis
+* Context
+    + Addresses what the research problem is, motivates why it is important, provides background material on the topic and other approaches, and identifies what is added by this thesis   
+* Overview
     + Briefly introduces the data sources, methods used, and a couple of key findings
 * Data
     + Describes the data sources (For each source, should answer: Where did it come from? Who collected it? How was it collected? Why was it originally collected?)
