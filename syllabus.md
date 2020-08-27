@@ -1,8 +1,8 @@
-## Data-focused Project Syllabus
+## Thesis Project Syllabus
 
 ### Description
 
-Senior thesis is a year long research project where you will collaborate with a faculty member. While statistics senior theses vary in content and methods, they all require you to practice and develop your ability to think statistically and to extract knowledge from data.  The thesis process also require you to practice communicating complex statistical methods in an accessible manner.  View thesis as an opportunity to develop and refine your statistical practice skills. Broadly speaking, there are two styles of Math-Stat theses: **data-focused** projects, with emphasis on collecting and analyzing one or more particular data sets, and **theory-focused** projects, that investigate a particular advanced topic or method, and either extend it in a new direction or apply it to a new circumstance.
+Senior thesis is a year long research project where you will collaborate with a faculty member. While statistics senior theses vary in content and methods, they all require you to practice and develop your ability to think statistically and to extract knowledge from data.  The thesis process also require you to practice communicating complex statistical methods in an accessible manner.  View thesis as an opportunity to develop and refine your statistical practice skills. Broadly speaking, there are two styles of Math-Stat theses: **data-focused** projects, with emphasis on analyzing and modeling one or more particular data sets, and **theory-focused** projects, that investigate a particular advanced topic or method, and either extend it in a new direction or apply it to a new circumstance.
 
 ### Learning Outcomes
 
