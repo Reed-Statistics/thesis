@@ -1,8 +1,8 @@
-## Syllabus
+## Data-focused Project Syllabus
 
 ### Description
 
-Senior thesis is a year long research project where you will collaborate with a faculty member. While statistics senior theses vary in content and methods, they all require you to practice and develop your ability to think statistically and to extract knowledge from data.  The thesis process also require you to practice communicating complex statistical methods in an accessible manner.  View thesis as an opportunity to develop and refine your statistical practice skills.
+Senior thesis is a year long research project where you will collaborate with a faculty member. While statistics senior theses vary in content and methods, they all require you to practice and develop your ability to think statistically and to extract knowledge from data.  The thesis process also require you to practice communicating complex statistical methods in an accessible manner.  View thesis as an opportunity to develop and refine your statistical practice skills. Broadly speaking, there are two styles of Math-Stat theses: **data-focused** projects, with emphasis on collecting and analyzing one or more particular data sets, and **theory-focused** projects, that investigate a particular advanced topic or method, and either extend it in a new direction or apply it to a new circumstance.
 
 ### Learning Outcomes
 
@@ -17,7 +17,23 @@ Senior thesis is a year long research project where you will collaborate with a 
 * You will write every week.  
 * You will meet project deadlines.
 
-### General Structure 
+### Assessment
+
+* Project engagement
+    + Meeting weekly goals
+    + Writing reqularly
+    + Come prepared for weekly meetings
+    + Maintaining the GitHub Project and pushing work to GitHub repo
+    + Communicating problems
+* Thesis drafts
+* Final thesis document
+* Oral exam
+
+************************************
+
+
+
+### General Structure for Data-focused Projects
 
 You should write your thesis using the `thesisdown` r package. (More info [here](https://github.com/ismayc/thesisdown).) The components of individual theses and the order in which they are put together can vary somewhat, but here are some general guidelines on a common structure:
 
@@ -35,12 +51,16 @@ You should write your thesis using the `thesisdown` r package. (More info [here]
     + Points out flaws in existing approaches and addresses how the current work mitigates these problems
 * Results
     + Includes both descriptive and analytical results
-* Discussion (and possibly a Conclusion)
+* Discussion and Conclusion
     + Summarizes the findings
-    + Discusses aspects of the analysis that could be expanded on, along with limitations
+    + Describes limitations of the particular project and analysis
+    + Discusses aspects of the analysis that could be expanded on
     + Provides key takeaways and recommendations from the domain audience
+* Code and data appendix
+    + Includes links to github repos if applicable
+    + Presents data set or algorithms
 
-### Due Dates
+### Due Dates for Data-focused Projects
 
 * Sept 11th: Project topic finalized
 * Sept 25th: Data sources identified
@@ -56,14 +76,46 @@ You should write your thesis using the `thesisdown` r package. (More info [here]
 * April 30th, 3pm: 4 copies of thesis due at Registrar's Office
 * May 14, noon: Thesis due in library
 
-### Assessment
+******************************************************
 
-* Project engagement
-    + Meeting weekly goals
-    + Writing reqularly
-    + Come prepared for weekly meetings
-    + Maintaining the GitHub Project and pushing work to GitHub repo
-    + Communicating problems
-* Thesis drafts
-* Final thesis document
-* Oral exam
+
+### General Structure for Theory-focused Projects
+
+You may write your thesis using the `thesisdown` r package (More info [here](https://github.com/ismayc/thesisdown)) or using the Reed LaTex thesis template (More info [here](https://www.reed.edu/cis/help/LaTeX/thesis.html)). The components of individual theses and the order in which they are put together can vary somewhat, but here are some general guidelines on a common structure:
+
+* Abstract
+    + Includes the main objective and rationale for the project, outlines the methods used, presents the key results and conclusions
+* Context
+    + Addresses what the research problem is, motivates why it is important, provides background material on the topic and other approaches, and identifies what is added by this thesis   
+* Overview
+    + Briefly introduces the main theory or method, the type of analysis used to explore it, and a couple of key applications or extensions
+* Foundations
+    + Introduces the terminology, framework and existing theory that are strictly necessary to understand the thesis topic
+* Theory
+    + Describes the theory or method (How does the technqique fit in existing framworks? what are some alternatives?)
+    + Defends choices of the theory or method over alternatives
+* Results
+    + Includes proofs and/or analysis of the main conjectures
+    + Provides relevant examples of the theory or method
+* Discussion and Conclusion
+    + Summarizes the findings
+    + Discusses aspects of the analysis that could be expanded on, along with limitations
+    + Provides key takeaways and recommendations from the domain audience
+* Appendix
+    + Includes examples, theorems, and/or proofs that are ancillary to the main result
+    + Presents data set or algorithms, if applicable
+
+### Due Dates for Theory-focused Projects
+
+* Sept 11th: Project topic finalized
+* Sept 25th: Main theory/methods identified
+* Oct 2nd: Three texts related to the project topic identified and summarized
+* Nov 20th: Foundations and Context chapter drafts complete
+* Week of Dec 7th: Present in the "Math-Stats Thesis Updates"
+* Feb 19th: Theory chapter draft complete
+* March 26th: Results chapter draft complete
+* April 2nd: Discussion chapter, Overview and Abstract draft complete
+* April 9th: Full rough to theis advisor for review and feedback
+* April 16th: Code Appendix complete 
+* April 30th, 3pm: 4 copies of thesis due at Registrar's Office
+* May 14, noon: Thesis due in library
