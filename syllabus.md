@@ -22,9 +22,10 @@ Senior thesis is a year long research project where you will collaborate with a 
 * Project engagement
     + Meeting weekly goals
     + Writing reqularly
-    + Come prepared for weekly meetings
+    + Coming prepared for weekly meetings
     + Maintaining the GitHub Project and pushing work to GitHub repo
     + Communicating problems
+    + Meeting project due dates
 * Thesis drafts
 * Final thesis document
 * Oral exam
